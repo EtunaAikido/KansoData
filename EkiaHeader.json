@@ -11,10 +11,13 @@
 		{
 			"title": "Right Sidebar",
 			"url": "right-sidebar.html"
-		},    
+		},
 		{
 			"title": "No sidebar",
 			"url": "no-sidebar.html"
+		},
+		{
+			"title": "fdfdfd"
 		}
 	]
 }
