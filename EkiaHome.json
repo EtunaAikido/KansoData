@@ -2,20 +2,16 @@
 	"EkiaLogotext": "Eskilstuna Ki-Aikido KLUBB",
 	"EkiaNavbar": [
 		{
-			"title": "[HEMSIDA](https://www.google.com)",
-			"url": "index.html"
+			"title": "[Homepage](index.html)"
 		},
 		{
-			"title": "Left Sidebar HM <http://www.google.com>",
-			"url": "left-sidebar.html"
+			"title": "[Left Sidebar](left-sidebar.html)"
 		},
 		{
-			"title": "Right Sidebar",
-			"url": "right-sidebar.html"
+			"title": "[Right Sidebar](right-sidebar.html)"
 		},
 		{
-			"title": "No sidebar",
-			"url": "no-sidebar.html"
+			"title": "[No sidebar](no-sidebar.html)"
 		}
 	]
 }
