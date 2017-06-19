@@ -1,8 +1,22 @@
 {
+	"WelcomeHeader": "Välkommen till den fredliga kampsporten aikido!",
 	"MarkupExample": "In posuere eleifend odio. Quisque semper augue mattis maecenas ligula.    [![Testbild](http://192.168.186.1:8080/Kanso/KansoMavo/images/pics13.jpg)](http://ekia.net)",
 	"Promo1Text": "Utforska motorik och rörelse på ett lekfullt sätt tillsammans med ditt barn",
 	"Promo2Text": "Lek blandas med aikidotekniker och övningar som stärker motorik och balans",
 	"Promo3Text": "Fokus på disciplin, stärkt självkänsla och att samarbeta mot samma mål",
 	"Promo4Text": "Smidighet och balans i kroppen och ökat självförtroende i konfliktsituationer",
-	"WelcomeHeader": "Välkommen till den fredliga kampsporten aikido!"
+	"News": [
+		{
+			"title": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
+			"subtitle": "2 DAGAR MED AIKI-LAB",
+			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
+			"date": "1 maj 2017"
+		},
+		{
+			"title": "INVIGNINGSLÄGER 20-21 AUGUSTI",
+      			"subtitle": "MED PETER & ANNA SPANGFORT",
+			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
+			"date": "1 augusti 2016"
+		},
+	]
 }
