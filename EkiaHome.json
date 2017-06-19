@@ -20,5 +20,16 @@
 			"date": "1 augusti 2016",
 			"featured": true
 		}
-	]
+	],
+	"instructors": [
+		{
+			"name": "Mattias Levin",
+			"image": "images/daniel.jpg",
+			"position": "Huvudinstruktör",
+			"description": "Klubbens huvudinstruktör, bor i Stockholm.",
+			"since": "Tränat sen 1990",
+			"rank": "Nidan",
+			"featured": true
+		}
+	]	
 }
