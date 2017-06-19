@@ -24,7 +24,7 @@
 	"instructors": [
 		{
 			"name": "Mattias Levin",
-			"image": "images/daniel.jpg",
+			"image": "images/elliot.jpg",
 			"position": "Huvudinstruktör",
 			"description": "Klubbens huvudinstruktör, bor i Stockholm.",
 			"since": "Tränat sen 1990",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Thomas Rydell",
-			"image": "images/mathew.png",
+			"image": "images/matthew.png",
 			"position": "Vuxeninstruktör",
 			"description": "Har tränat flera olika aikidostilar, är instruktör för vuxna.",
 			"since": "Tränat sen 2001",
