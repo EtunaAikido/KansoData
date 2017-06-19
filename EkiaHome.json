@@ -30,6 +30,24 @@
 			"since": "Tränat sen 1990",
 			"rank": "Nidan",
 			"featured": true
-		}
+		},
+		{
+			"name": "Johan Ahlberg",
+			"image": "images/daniel.jpg",
+			"position": "Dojoansvarig",
+			"description": "Ansvarar för att dojon fungerar och är instruktör för både barn och vuxna.",
+			"since": "Tränat sen 2003",
+			"rank": "Chuden/Shodan",
+			"featured": true
+		},
+		{
+			"name": "Thomas Rydell
+			"image": "images/mathew.png
+			"position": "Vuxeninstruktör
+			"description": "Har tränat flera olika aikidostilar, är instruktör för vuxna.",
+			"since": "Tränat sen 2001",
+			"rank": "Shoden/Shodan",
+			"featured": true
+		}		
 	]	
 }
