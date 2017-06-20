@@ -7,11 +7,17 @@
 	"promo4Text": "Smidighet och balans i kroppen och ökat självförtroende i konfliktsituationer",
 	"news": [
 		{
+			"date": "2017-06-20",
+			"title": "Sommaravslutning",
+			"subtitle": "Söndagen den 18/6",
+			"text": "Vi träffas hemma hos Kasper och badar och äter grillat. Ta med badkläder!"
+		},
+		{
 			"title": "TERMINSSTART",
 			"subtitle": "I AUGUSTI KÖR VI IGÅNG",
 			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
 			"date": "20 juni 2017"
-		},		
+		},
 		{
 			"title": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
 			"subtitle": "2 DAGAR MED AIKI-LAB",
@@ -20,7 +26,7 @@
 		},
 		{
 			"title": "INVIGNINGSLÄGER 20-21 AUGUSTI",
-      			"subtitle": "MED PETER & ANNA SPANGFORT",
+			"subtitle": "MED PETER & ANNA SPANGFORT",
 			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
 			"date": "1 augusti 2016"
 		}
@@ -57,6 +63,6 @@
 			"description": "Vår yngsta instruktör.",
 			"since": "Tränat sen 2015",
 			"rank": "2 Kyu"
-		}			
-	]	
+		}
+	]
 }
