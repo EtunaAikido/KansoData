@@ -7,18 +7,22 @@
 	"promo4Text": "Smidighet och balans i kroppen och ökat självförtroende i konfliktsituationer",
 	"news": [
 		{
+			"title": "TERMINSSTART",
+			"subtitle": "I AUGUSTI KÖR VI IGÅNG",
+			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
+			"date": "20 juni 2017"
+		},		
+		{
 			"title": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
 			"subtitle": "2 DAGAR MED AIKI-LAB",
-			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
-			"date": "1 maj 2017",
-			"featured": false
+			"text": "Sed etiam vestiulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
+			"date": "1 maj 2017"
 		},
 		{
 			"title": "INVIGNINGSLÄGER 20-21 AUGUSTI",
       			"subtitle": "MED PETER & ANNA SPANGFORT",
 			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
-			"date": "1 augusti 2016",
-			"featured": true
+			"date": "1 augusti 2016"
 		}
 	],
 	"instructors": [
@@ -28,8 +32,7 @@
 			"position": "Huvudinstruktör",
 			"description": "Klubbens huvudinstruktör, bor i Stockholm.",
 			"since": "Tränat sen 1990",
-			"rank": "Nidan",
-			"featured": true
+			"rank": "Nidan"
 		},
 		{
 			"name": "Johan Ahlberg",
@@ -37,8 +40,7 @@
 			"position": "Dojoansvarig",
 			"description": "Ansvarar för att dojon fungerar och är instruktör för både barn och vuxna.",
 			"since": "Tränat sen 2003",
-			"rank": "Chuden/Shodan",
-			"featured": true
+			"rank": "Chuden/Shodan"
 		},
 		{
 			"name": "Thomas Rydell",
@@ -46,8 +48,15 @@
 			"position": "Vuxeninstruktör",
 			"description": "Har tränat flera olika aikidostilar, är instruktör för vuxna.",
 			"since": "Tränat sen 2001",
-			"rank": "Shoden/Shodan",
-			"featured": true
-		}		
+			"rank": "Shoden/Shodan"
+		},
+		{
+			"name": "Kasper Kjällström",
+			"image": "images/daniel.jpg",
+			"position": "Barninstruktör",
+			"description": "Vår yngsta instruktör.",
+			"since": "Tränat sen 2015",
+			"rank": "2 Kyu"
+		}			
 	]	
 }
