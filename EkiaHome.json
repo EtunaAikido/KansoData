@@ -64,5 +64,22 @@
 			"since": "Tränat sen 2015",
 			"rank": "2 Kyu"
 		}
-	]
+	],
+"faq": [
+		{
+			"question": "Hur mycket kostar träningen?",
+			"anchor": "#kostnad",
+			"answer": "För vuxna kostar det 600:- per termin att träna, för barn 300:-. Vi har två terminer per år."
+		},
+		{
+			"question": "Vart ligger träningslokalen?",
+			"anchor": "#plats",
+			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen."
+		},
+		{
+			"question": "Kan man fråga vad som helst?",
+			"anchor": "#vadsomhelst",
+			"answer": "Det går bra."
+		}
+	]	
 }
