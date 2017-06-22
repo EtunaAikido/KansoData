@@ -35,7 +35,7 @@
 		{
 			"name": "Mattias Levin",
 			"image": "images/elliot.jpg",
-			"smallmage": "images/elliot_small.jpg",			
+			"smallimage": "images/elliot_small.jpg",			
 			"position": "Huvudinstruktör",
 			"description": "Klubbens huvudinstruktör, bor i Stockholm.",
 			"since": "Tränat sen 1990",
@@ -92,14 +92,42 @@
 			"header": "Föräldrar & Småttingar", 
 			"subheader": "Aikido för de minsta",
 			"text": "Lorum ipsum",
-			"calendarLink": "#totoros"
+			"calendarLink": "#totoros",
+			"groupInstructors": [
+				{
+					"Johan Ahlberg",
+					"smallimage": "images/elliot_small.jpg"
+				},
+				{
+					"Manuel Stadelmann",
+					"smallimage": "images/elliot_small.jpg"					
+				}
+			]
 		},
 		{
 			"image": "images/kids.png",
 			"header": "Barn", 
 			"subheader": "Aikido för barn",
 			"text": "Lorum ipsum",
-			"calendarLink": "#ponyos"
+			"calendarLink": "#ponyos",
+			"groupInstructors": [
+				{
+					"Johan A",
+					"smallimage": "images/elliot_small.jpg"
+				},
+				{
+					"Manuel",
+					"smallimage": "images/elliot_small.jpg"					
+				},
+				{
+					"Kasper",
+					"smallimage": "images/elliot_small.jpg"					
+				},			
+				{
+					"Hassan",
+					"smallimage": "images/elliot_small.jpg"					
+				}
+			]			
 		}
 	]
 }
