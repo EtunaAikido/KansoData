@@ -95,11 +95,11 @@
 			"calendarLink": "#totoros",
 			"groupInstructors": [
 				{
-					"Johan Ahlberg",
+					"name": "Johan A",
 					"smallimage": "images/elliot_small.jpg"
 				},
 				{
-					"Manuel Stadelmann",
+					"name": "Manuel S",
 					"smallimage": "images/elliot_small.jpg"					
 				}
 			]
@@ -112,19 +112,19 @@
 			"calendarLink": "#ponyos",
 			"groupInstructors": [
 				{
-					"Johan A",
+					"name": "Johan A",
 					"smallimage": "images/elliot_small.jpg"
 				},
 				{
-					"Manuel",
+					"name": "Manuel",
 					"smallimage": "images/elliot_small.jpg"					
 				},
 				{
-					"Kasper",
+					"name": "Kasper",
 					"smallimage": "images/elliot_small.jpg"					
 				},			
 				{
-					"Hassan",
+					"name": "Hassan",
 					"smallimage": "images/elliot_small.jpg"					
 				}
 			]			
