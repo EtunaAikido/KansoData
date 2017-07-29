@@ -8,19 +8,19 @@
 	"news": [
 		{
 			"date": "20 juni 2017",
-			"header": "Sommaravslutning",
-			"subheader": "Söndagen den 18/6",
+			"title": "Sommaravslutning",
+			"subtitle": "Söndagen den 18/6",
 			"text": "Vi träffas hemma hos Kasper och badar och äter grillat. Ta med badkläder!"
 		},
 		{
-			"header": "TERMINSSTART",
-			"subheader": "I AUGUSTI KÖR VI IGÅNG",
+			"title": "TERMINSSTART",
+			"subtitle": "I AUGUSTI KÖR VI IGÅNG",
 			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
 			"date": "20 juni 2017"
 		},
 		{
-			"header": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
-			"subheader": "2 DAGAR MED AIKI-LAB",
+			"title": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
+			"subtitle": "2 DAGAR MED AIKI-LAB",
 			"text": "Sed etiam vestiulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
 			"date": "1 maj 2017"
 		},
@@ -90,9 +90,9 @@
 		{
 			"image": "images/smallkids.png",
 			"header": "Föräldrar & Småttingar", 
-			"subheader": "Aikido för de minsta",
-			"text": "Lorum ipsum",
-			"calendarLink": "#totoros",
+			"subheader": "Aikido för de minsta tillsammans med en eller fler föräldrar/vuxen",
+			"text": "Sed etiam vestibulum velit, euismod lacinia quamAikido för de minsta tillsammans med en eller fler föräldrar/vuxen nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id",
+			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
 					"name": "Johan A",
@@ -109,7 +109,7 @@
 			"header": "Barn", 
 			"subheader": "Aikido för barn",
 			"text": "Lorum ipsum",
-			"calendarLink": "#ponyos",
+			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
 					"name": "Johan A",
