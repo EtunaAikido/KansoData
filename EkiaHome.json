@@ -34,21 +34,23 @@
 	"instructors": [
 		{
 			"name": "Mattias Levin",
-			"image": "images/elliot.jpg",
-			"smallimage": "images/elliot_small.jpg",			
+			"image": "images/mattias.png",
+			"smallimage": "images/mattias_small.png",			
 			"position": "Huvudinstruktör",
-			"description": "Klubbens huvudinstruktör, bor i Stockholm.",
-			"since": "Tränat sen 1990",
-			"rank": "Nidan"
+			"description": "Klubbens huvudinstruktör och äldsta medlem, bor i Stockholm. Tränar förutom aikido även kenjutsu. Har även tränat karate några år och provat på en del andra kampkonster.",
+			"since": "Tränat sen 1999",
+			"rank": "Nidan",
+			"facebook": "mattias.levin.1"
 		},
 		{
 			"name": "Johan Ahlberg",
-			"image": "images/daniel.jpg",
-			"smallimage": "images/elliot_small.jpg",			
+			"image": "images/johana.png",
+			"smallimage": "images/johana_small.png",			
 			"position": "Dojoansvarig",
-			"description": "Ansvarar för att dojon fungerar och är instruktör för både barn och vuxna.",
+			"description": "Ansvarar för att dojon fungerar och är instruktör för både barn och vuxna. Kontaktperson om du har några frågor!",
 			"since": "Tränat sen 2003",
-			"rank": "Chuden/Shodan"
+			"rank": "Chuden/Shodan",
+			"facebook": "j.ahlberg.me"
 		},
 		{
 			"name": "Thomas Rydell",
@@ -57,16 +59,18 @@
 			"position": "Vuxeninstruktör",
 			"description": "Har tränat flera olika aikidostilar, är instruktör för vuxna.",
 			"since": "Tränat sen 2001",
-			"rank": "Shoden/Shodan"
+			"rank": "Shoden/Shodan",
+			"facebook": "thomas.rydell.9"
 		},
 		{
 			"name": "Kasper Kjällström",
-			"image": "images/daniel.jpg",
-			"smallimage": "images/joe_small.jpg",
+			"image": "images/kasper.png",
+			"smallimage": "images/kasper_small.png",
 			"position": "Barninstruktör",
-			"description": "Vår yngsta instruktör.",
-			"since": "Tränat sen 2015",
-			"rank": "2 Kyu"
+			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
+			"since": "Tränat sen 2014",
+			"rank": "2 Kyu",
+			"facebook": "ezikeel.cooper",
 		}
 	],
 	"faq": [
@@ -96,11 +100,11 @@
 			"groupInstructors": [
 				{
 					"name": "Johan A",
-					"smallimage": "images/elliot_small.jpg"
+					"smallimage": "images/johana_small.png"
 				},
 				{
-					"name": "Manuel S",
-					"smallimage": "images/elliot_small.jpg"					
+					"name": "Kasper",
+					"smallimage": "images/kasper_small.png"					
 				}
 			]
 		},
@@ -113,19 +117,15 @@
 			"groupInstructors": [
 				{
 					"name": "Johan A",
-					"smallimage": "images/elliot_small.jpg"
-				},
-				{
-					"name": "Manuel",
-					"smallimage": "images/elliot_small.jpg"					
+					"smallimage": "images/johana_small.png"
 				},
 				{
 					"name": "Kasper",
-					"smallimage": "images/elliot_small.jpg"					
+					"smallimage": "images/kasper_small.png"					
 				},			
 				{
-					"name": "Hassan",
-					"smallimage": "images/elliot_small.jpg"					
+					"name": "Mattias",
+					"smallimage": "images/mattias_small.png"					
 				}
 			]			
 		}
