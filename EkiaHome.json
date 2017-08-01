@@ -7,28 +7,16 @@
 	"promo4Text": "Smidighet och balans i kroppen och ökat självförtroende i konfliktsituationer",
 	"news": [
 		{
-			"date": "20 juni 2017",
-			"title": "Sommaravslutning",
-			"subtitle": "Söndagen den 18/6",
-			"text": "Vi träffas hemma hos Kasper och badar och äter grillat. Ta med badkläder!"
+			"date": "1 augusti 2017",
+			"title": "Terminen startar 17 augusti",
+			"subtitle": "Alla är välkomna!",
+			"text": "Vi kör igång terminen med träning igen torsdagen den 17 augusti. Alla är välkomna, gamla som nya. Om du som nybörjare har några funderingar kan du kontakta oss direkt eller komma och titta på ett pass innan du är med själv. Vanliga träningskläder går bra, helst långa byxor, inga skor. Välkommen!"
 		},
 		{
-			"title": "TERMINSSTART",
-			"subtitle": "I AUGUSTI KÖR VI IGÅNG",
-			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
-			"date": "20 juni 2017"
-		},
-		{
-			"title": "LÄGER MED CORKY QUAKENBUSH 27-28 MAJ",
-			"subtitle": "2 DAGAR MED AIKI-LAB",
-			"text": "Sed etiam vestiulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
-			"date": "1 maj 2017"
-		},
-		{
-			"title": "INVIGNINGSLÄGER 20-21 AUGUSTI",
-			"subtitle": "MED PETER & ANNA SPANGFORT",
-			"text": "Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat.",
-			"date": "1 augusti 2016"
+			"title": "Terminens läger",
+			"subtitle": "Här kommer vi löpande att lägga in information om terminens läger",
+			"text": "Just nu är inga läger bokade.",
+			"date": "1 augusti 2017"
 		}
 	],	
 	"instructors": [
@@ -67,7 +55,44 @@
 			"facebook": "ezikeel.cooper",
 			"mail": "ezikeel@gmail.com",
 			"phone": "070112233"
-		}
+		},
+		{
+			"name": "Hassan Jameh",
+			"image": "images/kasper.png",
+			"smallimage": "images/kasper_small.png",
+			"position": "Barninstruktör",
+			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
+			"since": "Tränat sen 2014",
+			"rank": "2 Kyu",
+			"facebook": "ezikeel.cooper",
+			"mail": "ezikeel@gmail.com",
+			"phone": "070112233"
+		},		
+		{
+			"name": "Manuel Stadelmann",
+			"image": "images/kasper.png",
+			"smallimage": "images/kasper_small.png",
+			"position": "Barninstruktör",
+			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
+			"since": "Tränat sen 2014",
+			"rank": "2 Kyu",
+			"facebook": "ezikeel.cooper",
+			"mail": "ezikeel@gmail.com",
+			"phone": "070112233"
+		},
+		{
+			"name": "Mikael Walldin",
+			"image": "images/kasper.png",
+			"smallimage": "images/kasper_small.png",
+			"position": "Barninstruktör",
+			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
+			"since": "Tränat sen 2014",
+			"rank": "2 Kyu",
+			"facebook": "ezikeel.cooper",
+			"mail": "ezikeel@gmail.com",
+			"phone": "070112233"
+		}		
+		
 	],
 	"faq": [
 		{
@@ -89,39 +114,45 @@
 	"groups": [
 		{
 			"image": "images/smallkids.png",
-			"header": "Föräldrar & Småttingar", 
-			"subheader": "Aikido för de minsta tillsammans med en eller fler föräldrar/vuxen",
+			"title": "Föräldrar & Småttingar", 
+			"subtitle": "Aikido för de minsta tillsammans med en eller fler föräldrar/vuxen",
 			"text": "Sed etiam vestibulum velit, euismod lacinia quamAikido för de minsta tillsammans med en eller fler föräldrar/vuxen nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id",
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
 					"name": "Johan A",
-					"smallimage": "images/johana_small.png"
+					"image": "images/johana_small.png"
 				},
 				{
 					"name": "Kasper",
-					"smallimage": "images/kasper_small.png"					
+					"image": "images/kasper_small.png"					
 				}
 			]
 		},
 		{
 			"image": "images/kids.png",
-			"header": "Barn", 
-			"subheader": "Aikido för barn",
-			"text": "Lorum ipsum",
+			"title": "Barn", 
+			"subtitle": "Aikido för barn",
+			"text": "Mindre barn är välkomna att träna hos oss från 7-8 årsåldern. Undantag kan göras i vissa fall om barnet är yngre men har kommit längre i sin motoriska utveckling.
+			
+I barngruppen tränar vi grunderna i Aikido. Att kunna rulla, falla, hålla balansen, gå och stå rätt samt vissa enklare aikidotekniker. Detta blandar vi med en hel del lekar som även de hjälper barnet utveckla sin motorik, balans, självkänsla och kamratskap.
+			
+Huvudsyftet med träningen är att barnet ska ha roligt och kunna känna att hon eller han utvecklas. I aikido tävlar man inte mot varandra, utan fokus ligger helt på sin egna utveckling.
+			
+Vi försöker anpassa aikidoträningen för alla, men den kräver även en hel del koncentration och uppmärksamhet från barnet. Det är viktigt att barnet förstår att det inte är acceptabelt att förstöra träningen för andra barn.",
 			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
 					"name": "Johan A",
-					"smallimage": "images/johana_small.png"
+					"image": "images/johana_small.png"
 				},
 				{
 					"name": "Kasper",
-					"smallimage": "images/kasper_small.png"					
+					"image": "images/kasper_small.png"					
 				},			
 				{
 					"name": "Mattias",
-					"smallimage": "images/mattias_small.png"					
+					"image": "images/mattias_small.png"					
 				}
 			]			
 		}
