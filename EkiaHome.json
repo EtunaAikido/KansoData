@@ -130,10 +130,10 @@
 			]
 		},
 		{
-			"image": "images/pics_new1.jpg",
+			"image": "images/pics_new2.jpg",
 			"title": "Barn", 
 			"subtitle": "Aikido för barn",
-			"text": "fdfsd\n\n  test",
+			"text": "fdfsd \r\n\r\n test",
 			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
