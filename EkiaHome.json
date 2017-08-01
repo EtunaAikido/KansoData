@@ -113,10 +113,10 @@
 	],
 	"groups": [
 		{
-			"image": "images/smallkids.png",
+			"image": "images/pics_new.jpg",
 			"title": "Föräldrar & Småttingar", 
 			"subtitle": "Aikido för de minsta tillsammans med en eller fler föräldrar/vuxen",
-			"text": "Sed etiam vestibulum velit, euismod lacinia quamAikido för de minsta tillsammans med en eller fler föräldrar/vuxen nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Sed etiam vestibulum velit, euismod lacinia quam nisl id lorem. Quisque erat. Vestibulum pellentesque, justo mollis pretium suscipit, justo nulla blandit libero, in blandit augue justo quis nisl. Fusce mattis viverra elit. Fusce quis tortor. Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget lorem ipsum dolor. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat. Sed etiam vestibulum velit, euismod lacinia quam nisl id",
+			"text": "Insert text here",
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
@@ -130,10 +130,10 @@
 			]
 		},
 		{
-			"image": "images/kids.png",
+			"image": "images/pics_new1.jpg",
 			"title": "Barn", 
 			"subtitle": "Aikido för barn",
-			"text": "fdfsd",
+			"text": "fdfsd\n\n  test",
 			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
