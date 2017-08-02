@@ -25,19 +25,19 @@
 			"image": "images/mattias.png",
 			"smallimage": "images/mattias_small.png",			
 			"position": "Huvudinstruktör",
-			"description": "Klubbens huvudinstruktör och äldsta medlem, bor i Stockholm. Tränar förutom aikido även kenjutsu. Har även tränat karate några år och provat på en del andra kampkonster.",
+			"description": "Klubbens huvudinstruktör sedan många år, bor numera i Stockholm men besöker oss då och då. Tränar förutom aikido även kenjutsu. Har även tränat karate några år och provat på en del andra kampkonster. Åker ofta till Japan för att träna aikido.",
 			"since": "Tränat sen 1999",
 			"rank": "Nidan",
 			"facebook": "mattias.levin.1",
 			"mail": "mattias@levin.se",
-			"phone": "070112233"
+			"phone": "0735518506"
 		},
 		{
 			"name": "Johan Ahlberg",
 			"image": "images/johana.png",
 			"smallimage": "images/johana_small.png",			
-			"position": "Dojoansvarig",
-			"description": "Ansvarar för att dojon fungerar och är instruktör för både barn och vuxna. Kontaktperson om du har några frågor!",
+			"position": "Dojoansvarig / Barn & Vuxeninstruktör",
+			"description": "Ansvarar för att dojon fungerar, sköter planering och lägerbokningar. Kontaktperson om du har några frågor! Utbildad både som barn och vuxenledare i flera steg.",
 			"since": "Tränat sen 2003",
 			"rank": "Chuden/Shodan",
 			"facebook": "j.ahlberg.me",
@@ -45,71 +45,81 @@
 			"phone": "0706816183"
 		},
 		{
-			"name": "Kasper Kjällström",
+			"name": "Kasper Frank Kjällström",
 			"image": "images/kasper.png",
 			"smallimage": "images/kasper_small.png",
 			"position": "Barninstruktör",
-			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
+			"description": "Vår yngsta instruktör, men även den som troligtvis är med på flest läger i andra klubbar. Har tränat för många duktiga instruktörer och har alltid ett öppet sinne inför nya aikidoerfarenheter. Sitter även med i styrelsen och är utbildad Ungdomsledare (Plattformen).",
 			"since": "Tränat sen 2014",
 			"rank": "2 Kyu",
 			"facebook": "ezikeel.cooper",
 			"mail": "ezikeel@gmail.com",
-			"phone": "070112233"
+			"phone": ""
 		},
 		{
 			"name": "Hassan Jameh",
-			"image": "images/kasper.png",
-			"smallimage": "images/kasper_small.png",
+			"image": "images/hassan.png",
+			"smallimage": "images/hassan_small.png",
 			"position": "Barninstruktör",
-			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
-			"since": "Tränat sen 2014",
-			"rank": "2 Kyu",
-			"facebook": "ezikeel.cooper",
-			"mail": "ezikeel@gmail.com",
-			"phone": "070112233"
+			"description": "En duktig barninstruktör som tränat i klubben nästan sen han kom till Sverige. Lär sig snabbt och har alltid ett glatt humör med sig. Kontaktperson för frågor på Arabiska!",
+			"since": "Tränat sen 2015",
+			"rank": "3 Kyu",
+			"facebook": "hassan1tiger",
+			"mail": "hassan1tiger@gmail.com",
+			"phone": "0728438557"
 		},		
 		{
 			"name": "Manuel Stadelmann",
-			"image": "images/kasper.png",
-			"smallimage": "images/kasper_small.png",
-			"position": "Barninstruktör",
-			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
-			"since": "Tränat sen 2014",
-			"rank": "2 Kyu",
-			"facebook": "ezikeel.cooper",
-			"mail": "ezikeel@gmail.com",
-			"phone": "070112233"
+			"image": "images/manuel.png",
+			"smallimage": "images/manuel_small.png",
+			"position": "Vuxen- och barninstruktör",
+			"description": "Började med Aikido när han flyttade till Eskilstuna från Schweiz och nappade direkt. Tränade tidigare chin-woo kung-fu som blev lite för slitsamt för kroppen. Det bästa med aikidoträningen är att lära sig röra sig på ett smidigt sätt. Utbildad Barn- och ungdomsledare och Kassör i föreningen.",
+			"since": "Tränat sen 2010",
+			"rank": "1 Kyu",
+			"facebook": "allotria",
+			"mail": "manuel@allotria.ch",
+			"phone": "0722101708"
 		},
 		{
 			"name": "Mikael Walldin",
-			"image": "images/kasper.png",
-			"smallimage": "images/kasper_small.png",
-			"position": "Barninstruktör",
-			"description": "Vår yngsta instruktör, åker på alla läger han kan och lär sig fort.",
-			"since": "Tränat sen 2014",
-			"rank": "2 Kyu",
-			"facebook": "ezikeel.cooper",
-			"mail": "ezikeel@gmail.com",
-			"phone": "070112233"
+			"image": "images/mikael.png",
+			"smallimage": "images/mikael.png",
+			"position": "Vuxeninstruktör",
+			"description": "En av våra nyaste instruktörer, alltid trevlig och på bra humör. Har tidigare tränat Wing Chun, deltagit på många läger med duktiga instruktörer. Uppskattar känslan av harmoni som infinner sig efter ett genomfört aikidopass. Även ledamot i styrelsen. ",
+			"since": "Tränat sen 2013",
+			"rank": "Jokyu",
+			"facebook": "",
+			"mail": "mpower767@gmail.com",
+			"phone": "0707221111"
 		}		
 		
 	],
 	"faq": [
-		{
-			"question": "Hur mycket kostar träningen?",
-			"anchor": "kostnad",
-			"answer": "För vuxna kostar det 600:- per termin att träna, för barn 300:-. Vi har två terminer per år."
-		},
 		{
 			"question": "Vart ligger träningslokalen?",
 			"anchor": "plats",
 			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen."
 		},
 		{
-			"question": "Kan man fråga vad som helst?",
-			"anchor": "vadsomhelst",
-			"answer": "Det går bra."
+			"question": "Hur mycket kostar träningen?",
+			"anchor": "kostnad",
+			"answer": "För vuxna kostar det 600:- per termin att träna, för barn 300:-. Vi har två terminer per år. En träningsdräkt (Gi) kostar lika mycket som terminsavgiften."
+		},
+		{
+			"question": "Hur betalar jag terminsavgiften?",
+			"anchor": "betala",
+			"answer": "Du sätter in pengar på klubbens plusgirokonto, (pg) 837 09 82-4 eller swishar till 070-6816183 (Johan Ahlberg). Kom ihåg att skriva vad och vem betalningen är för."
+		},		
+		{
+			"question": "Kan jag komma och pröva eller titta på ett träningspass?",
+			"anchor": "prövapå",
+			"answer": "Du är välkommen när som helst, titta i vår kalender för att hitta ett lämpligt pass. Det är gratis att pröva på!"
 		}
+		{
+			"question": "Hur gör jag för att beställa dräkt?",
+			"anchor": "dräkt",
+			"answer": "Gå [hit](https://docs.google.com/forms/d/1O2gLE6b2M49X0FiyKOBDVWv4BY_PJfQdQu2OCv4FOgo/viewform) och fyll i formuläret så kontaktar vi dig när vi gör en gruppbeställning."
+		}		
 	],
 	"groups": [
 		{
