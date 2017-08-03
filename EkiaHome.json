@@ -141,7 +141,7 @@
 					"image": "images/johana_small.png"
 				}
 			],
-			"groupSchedule" [
+			"groupSchedule": [
 			{
 				"time": "Höstterminen 2017"
 			}
@@ -173,7 +173,7 @@
 					"image": "images/hassan_small.png"
 				}
 			],
-			"groupSchedule" [
+			"groupSchedule": [
 			{
 				"time": "Torsdagar 17:30"
 			},
@@ -201,7 +201,7 @@
 					"image": "images/hassan_small.png"
 				}
 			],
-			"groupSchedule" [
+			"groupSchedule": [
 			{
 				"time": "Tisdagar 18:30"
 			}
@@ -237,7 +237,7 @@
 					"image": "images/kasper_small.png"
 				}
 			],
-			"groupSchedule" [
+			"groupSchedule": [
 			{
 				"time": "Torsdagar 19:00"
 			},
