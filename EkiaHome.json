@@ -4,9 +4,9 @@
 	"promo1Text": "Utforska motorik och rörelse på ett lekfullt sätt tillsammans med ditt barn",
 	"promo2Text": "Lek blandas med aikidotekniker och övningar som stärker motorik och balans",
 	"promo3Text": "Fokus på disciplin, stärkt självkänsla och att samarbeta mot samma mål",
-	"promo4Text": "Smidighet och balans i kroppen med ökat självförtroende i konfliktsituationer",
+	"promo4Text": "Smidighet och balans i kroppen och ökat självförtroende i konfliktsituationer",
 	"footerImage": "images/logo2014vit.png",
-	"footerText": "Eskilstuna Ki-Aikidoklubb grundades 14 mars 1991, med huvudsaklig inriktning mot aikidostilen Ki-Aikido (Shin Shin Toitsu) men även öppna för influenser från andra aikidostilar, och så är det än idag. \r\n                             Vi välkomnar utövare och instruktörer från all aikido med öppna armar. 31 augusti 2008 startade vi vår första barngrupp och vår barn- och ungdomsverksamhet har sedan utvecklats genom åren till det den är idag. Alla är välkomna att komma och träna med oss, oavsett vem du är eller vart du kommer ifrån! \r\n \r\n Tack till våra medlemmar, Magnus Hartman och Svenska Aikidoförbundet för bilderna på sajten.",
+	"footerText": "Eskilstuna Ki-Aikidoklubb grundades 14 mars 1991, med huvudsaklig inriktning mot aikidostilen Ki-Aikido (Shin Shin Toitsu) men även öppna för influenser från andra aikidostilar, och så är det än idag. \r\n                             Vi välkomnar utövare och instruktörer från all aikido med öppna armar. 31 augusti 2008 startade vi vår första barngrupp och vår barn- och ungdomsverksamhet har sedan utvecklats genom åren till det den är idag. \r\n Alla är välkomna att komma och träna med oss, oavsett vem du är eller vart du kommer ifrån! \r\n \r\n Tack till våra medlemmar, Magnus Hartman och Svenska Aikidoförbundet för bilderna på sajten.",
 	"news": [
 		{
 			"date": "1 augusti 2017",
@@ -132,8 +132,8 @@
 		{
 			"groupImage": "images/preschool.png",
 			"title": "Föräldrar & Småttingar",
-			"subtitle": "Det här är en bra grupp för alla med små barn.",
-			"text": "Insert text here",
+			"subtitle": "Lek och motorik för 3-6 åringar tillsammans med förälder",
+			"text": "Denna grupp kommer att starta senare i höst. Kontakta oss för mer information. Obs! Antalet platser är begränsat.\n\nAikidolek kommer att innehålla många bra övningar för ditt barns (och din egen) motorik och kroppsliga utveckling. Vi tränar på en mjuk matta med och utan redskap. Lekarna och övningar kommer ha viss aikidokoppling, men vi tränar inga tekniker eller något avancerat. Fokus ligger på  att barnen ska ha roligt!",
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
@@ -142,19 +142,19 @@
 				}
 			],
 			"groupSchedule": [
-			{
-				"color": "orange",
-				"icon": "users",				
-				"time": "Höstterminen 2017"
-			}
-			]			
+				{
+					"color": "orange",
+					"icon": "users",
+					"time": "Höstterminen 2017"
+				}
+			]
 		},
 		{
 			"groupImage": "images/kids.png",
 			"title": "Barn",
 			"subtitle": "Aikido för barn i åldrarna 7-11 år",
 			"text": "Mindre barn är välkomna att träna hos oss från 7-8 årsåldern. Undantag kan göras i vissa fall om barnet är yngre men har kommit längre i sin motoriska utveckling. \r\n\r\n I barngruppen tränar vi grunderna i Aikido. Att kunna rulla, falla, hålla balansen, gå och stå rätt samt vissa enklare aikidotekniker. Detta blandar vi med en hel del lekar som även de hjälper barnet utveckla sin motorik, balans, självkänsla och kamratskap. Huvudsyftet med träningen är att barnet ska ha roligt och kunna känna att hon eller han utvecklas. \r\n\r\n I aikido tävlar man inte mot varandra, utan fokus ligger helt på sin egna utveckling. Vi försöker anpassa aikidoträningen för alla, men den kräver även en hel del koncentration och uppmärksamhet från barnet. Det är viktigt att barnet förstår att det inte är acceptabelt att förstöra träningen för andra barn.",
-			"calendarGroup": "Barnträning",			
+			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
 					"name": "Johan A",
@@ -174,25 +174,24 @@
 				}
 			],
 			"groupSchedule": [
-			{
-				"color": "green",
-				"icon": "child",
-				"time": "Torsdagar 17:30"
-			},
-			{
-				"color": "green",
-				"icon": "child",				
-				"time": "Söndagar 10:00"
-			}
+				{
+					"color": "green",
+					"icon": "child",
+					"time": "Torsdagar 17:30"
+				},
+				{
+					"color": "green",
+					"icon": "child",
+					"time": "Söndagar 10:00"
+				}
 			]
-			
 		},
 		{
 			"groupImage": "images/youths.png",
 			"title": "Ungdomar",
 			"subtitle": "Aikido för ungdomar i åldrarna 12-18 år",
 			"text": "Ungdomar tränar på samma pass som de yngre barnen och ett eget pass i veckan, äldre ungdomar tränar även med de vuxna. De tränar dels samma grunder som de yngre och är med på en del lekar, men får även lära sig mer avancerade aikidotekniker. \r\n\r\n Ungdomarna mer avancerade tekniker och fall, samt ibland med trävapen. Bokken (Japanskt träsvärd) och jo (smal stav) är de främsta bland dessa. Vapenpass kräver extra koncentration då meningen inte är att göra illa någon annan, eller sig själv, med vapnen utan att kunna utnyttja dem som träningsredskap och lära sig hantera dem på ett bra sätt. \r\n\r\n Med våra ungdomar åker vi ibland på besök till andra klubbar och är med på träningsläger tillsammans med andra aikidoutövare. Vi tror att en av nycklarna till att utvecklas inom aikido är att få chansen att träna med många olika personer med olika kunskaper och färdigheter.",
-			"calendarGroup": "Ungdomsträning",			
+			"calendarGroup": "Ungdomsträning",
 			"groupInstructors": [
 				{
 					"name": "Kasper",
@@ -204,11 +203,11 @@
 				}
 			],
 			"groupSchedule": [
-			{
-				"color": "purple",
-				"icon": "student",
-				"time": "Tisdagar 18:30"
-			}
+				{
+					"color": "purple",
+					"icon": "student",
+					"time": "Tisdagar 18:30"
+				}
 			]
 		},
 		{
@@ -216,7 +215,7 @@
 			"title": "Vuxna",
 			"subtitle": "Aikido för vuxna och äldre ungdomar",
 			"text": "Man är aldrig för gammal för att börja med aikido. I Japan tränar man aikido långt efter pensionsåldern, och många rörelser och tekniker är speciellt anpassade för att mjuka upp och hålla kroppen smidig. I vår klubb ligger åldrarna mellan 30-50 år bland de vuxna. \r\n\r\n Aikido består av många delar, så många att det är svårt att beskriva alla. Främst så tränar vi diverse aikidotekniker, som ofta går ut på att hantera ett slag eller spark från en partner. Vi lär oss också att ta oss ur och hantera fasthållningar av olika slag samt flermanna-attacker. Vi tränar också en del med trävapen, både vapen mot vapen samt vapen mot obeväpnad. \r\n\r\n Men aikido består även av mycket annat. Man får lära sig att rulla mjukt, bli smidigare i kroppen, förbättra sin balans och träna på sin andning och bli lugnare i sinnet genom meditation. \r\n\r\n Genomgående i all träning är att du hela tiden samarbetar med din partner och andra som tränar, det är aldrig en kamp eller en tävling om vem som är bäst. Du ska lämna träningen i harmoni med dig själv och dina kamrater och kunna känna att du har utvecklas som person, utan att behöva jämföra dig med andra.",
-			"calendarGroup": "Vuxenträning",			
+			"calendarGroup": "Vuxenträning",
 			"groupInstructors": [
 				{
 					"name": "Mattias",
@@ -236,16 +235,16 @@
 				}
 			],
 			"groupSchedule": [
-			{
-				"color": "blue",
-				"icon": "user",					
-				"time": "Torsdagar 19:00"
-			},
-			{
-				"color": "blue",
-				"icon": "user",					
-				"time": "Söndagar 11:15"
-			}
+				{
+					"color": "blue",
+					"icon": "user",
+					"time": "Torsdagar 19:00"
+				},
+				{
+					"color": "blue",
+					"icon": "user",
+					"time": "Söndagar 11:15"
+				}
 			]
 		}
 	]
