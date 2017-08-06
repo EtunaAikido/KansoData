@@ -1,6 +1,6 @@
 {
-	"welcomeHeader": "Välkommen till den fredliga kampsporten aikido!",
 	"markupExample": "In posuere eleifend odio. Quisque semper augue mattis maecenas ligula.    [![Testbild](http://192.168.186.1:8080/Kanso/KansoMavo/images/pics13.jpg)](http://ekia.net)",
+	"welcomeHeader": "Välkommen till den fredliga kampsporten aikido!",
 	"promo1Text": "Utforska motorik och rörelse på ett lekfullt sätt tillsammans med ditt barn",
 	"promo2Text": "Lek blandas med aikidotekniker och övningar som stärker motorik och balans",
 	"promo3Text": "Fokus på disciplin, stärkt självkänsla och att samarbeta mot samma mål",
@@ -40,7 +40,7 @@
 			"image": "images/johana.png",
 			"smallimage": "images/johana_small.png",
 			"actionimage": "images/johan_action.png",
-			"position": "Dojoansvarig / Barn & Vuxeninstruktör",
+			"position": "Dojoansvarig / Barn- och Vuxeninstruktör",
 			"description": "Ansvarar för att dojon fungerar, sköter planering och lägerbokningar. Kontaktperson om du har några frågor! Utbildad både som barn och vuxenledare i flera steg.",
 			"since": "Tränat sen 2003",
 			"rank": "Chuden/Shodan",
@@ -49,7 +49,7 @@
 			"phone": "0706816183"
 		},
 		{
-			"name": "Kasper Frank Kjällström",
+			"name": "Kasper Kjällström",
 			"image": "images/kasper.png",
 			"smallimage": "images/kasper_small.png",
 			"actionimage": "images/kasper_action.png",
@@ -137,7 +137,7 @@
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
-					"name": "Johan A",
+					"name": "Johan Ahlberg",
 					"image": "images/johana_small.png"
 				}
 			],
@@ -157,19 +157,19 @@
 			"calendarGroup": "Barnträning",
 			"groupInstructors": [
 				{
-					"name": "Johan A",
+					"name": "Johan Ahlberg",
 					"image": "images/johana_small.png"
 				},
 				{
-					"name": "Manuel",
+					"name": "Manuel Stadelmann",
 					"image": "images/manuel_small.png"
 				},
 				{
-					"name": "Kasper",
+					"name": "Kasper Kjällström",
 					"image": "images/kasper_small.png"
 				},
 				{
-					"name": "Hassan",
+					"name": "Hassan Jameh",
 					"image": "images/hassan_small.png"
 				}
 			],
@@ -194,11 +194,11 @@
 			"calendarGroup": "Ungdomsträning",
 			"groupInstructors": [
 				{
-					"name": "Kasper",
+					"name": "Kasper Kjällström",
 					"image": "images/kasper_small.png"
 				},
 				{
-					"name": "Hassan",
+					"name": "Hassan Jameh",
 					"image": "images/hassan_small.png"
 				}
 			],
@@ -218,19 +218,19 @@
 			"calendarGroup": "Vuxenträning",
 			"groupInstructors": [
 				{
-					"name": "Mattias",
+					"name": "Mattias Levin",
 					"image": "images/mattias_small.png"
 				},
 				{
-					"name": "Johan A",
+					"name": "Johan Ahlberg",
 					"image": "images/johana_small.png"
 				},
 				{
-					"name": "Manuel",
+					"name": "Manuel Stadelmann",
 					"image": "images/manuel_small.png"
 				},
 				{
-					"name": "Mikael",
+					"name": "Mikael Walldin",
 					"image": "images/mikael_small.png"
 				}
 			],
