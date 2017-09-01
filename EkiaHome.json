@@ -107,9 +107,9 @@
 			"answer": "Absolut! Hos oss betalar du en träningsavgift varje halvår, och den kan du sedan få ersättning för från din arbetsgivare genom friskvårdsbidrag. Säg bara till om ett kvitto som du kan lämna till din arbetsgivare så löser vi det.\n\nVi tar även emot betalningar genom ePassi Min Friskvård, antingen genom kuponger eller genom deras app om din arbetsgivare är ansluten dit, exempelvis Eskilstuna Kommun."
 		},
 		{
-			"question": "Vart ligger träningslokalen?",
+			"question": "Vart ligger träningslokalen och vad är er adress?",
 			"anchor": "plats",
-			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen. Ofta är dörren på hörnet upplåst så du kommer direkt in i trappuppgången. Om den är låst kan du behöva gå igenom hela munktellarenan, [vi har gjort en film för att hjälpa dig hitta](https://www.instagram.com/p/BJQVjSpDfdU/).\n\nOmklädningsrummen hittar du precis innan du går in i trapphuset från insidan (bredvid löparbanan), koden får du av instruktören.\n\nVår postadress är:\nEskilstuna Ki-Aikido\nMunktellarenan\nVerkstadsgatan 5\n633 42 Eskilstuna\n"
+			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen. Ofta är dörren på hörnet upplåst så du kommer direkt in i trappuppgången. Om den är låst kan du behöva gå igenom hela munktellarenan, [vi har gjort en film för att hjälpa dig hitta](https://www.instagram.com/p/BJQVjSpDfdU/).\n\nOmklädningsrummen hittar du precis innan du går in i trapphuset från insidan (bredvid löparbanan), koden får du av instruktören.\n\nVår postadress är samma som dojoadressen:\nEskilstuna Ki-Aikido\nMunktellarenan\nVerkstadsgatan 5\n633 42 Eskilstuna\n"
 		},
 		{
 			"question": "Hur mycket kostar träningen?",
@@ -119,7 +119,7 @@
 		{
 			"question": "Hur betalar jag terminsavgiften?",
 			"anchor": "betala",
-			"answer": "Du sätter in pengar på klubbens plusgirokonto, (pg) 837 09 82-4 eller swishar till 070-6816183 (Johan Ahlberg). Kom ihåg att skriva vad och vem betalningen är för."
+			"answer": "Du sätter in pengar på klubbens plusgirokonto, (pg) 837 09 82-4 eller swishar till 070-6816183 (Johan Ahlberg). Kom ihåg att skriva vad och vem betalningen är för. Du kan även betala genom ePassi Min Friskvård genom kupong eller appen."
 		},
 		{
 			"question": "Kan jag komma och pröva eller titta på ett träningspass?",
