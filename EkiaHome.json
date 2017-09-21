@@ -249,7 +249,11 @@
 				{
 					"name": "Mikael Walldin",
 					"image": "images/mikael_small.png"
-				}
+				},
+				{
+					"name": "Thomas Rydell",
+					"image": "images/thomas_small.png"
+				}				
 			],
 			"groupSchedule": [
 				{
