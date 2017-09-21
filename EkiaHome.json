@@ -23,6 +23,13 @@
 	],
 	"instructors": [
 		{
+			"name": "Thomas ",
+			"position": "Vuxeninstruktör",
+			"description": "Vår mest rutinerade instruktör, med bakgrund både i Iwama Ryu Aikido, Aikikai och Ki-Aikido. Åker gärna på läger och besöker andra klubbar med olika stilar. Även instruktör i Strängnäs Aikidoklubb.",
+			"rank": "Shodan",
+			"since": "1997"
+		},
+		{
 			"name": "Mattias Levin",
 			"image": "images/mattias.png",
 			"smallimage": "images/mattias_small.png",
