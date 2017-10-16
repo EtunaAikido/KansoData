@@ -26,14 +26,14 @@
 			"name": "Thomas Rydell",
 			"image": "images/thomas.png",
 			"smallimage": "images/thomas_small.png",
-			"actionimage": "images/thomas.png",			
+			"actionimage": "images/thomas.png",
 			"position": "Vuxeninstruktör",
 			"description": "Vår mest rutinerade instruktör, med bakgrund både i Iwama Ryu Aikido, Aikikai och Ki-Aikido. Åker gärna på läger och besöker andra klubbar med olika stilar. Även instruktör i Strängnäs Aikidoklubb.",
 			"rank": "Shodan",
 			"since": "1997",
 			"facebook": "thomas.rydell.9",
 			"mail": "thomas@thomasrydell.se",
-			"phone": "0705864301"			
+			"phone": "0705864301"
 		},
 		{
 			"name": "Mattias Levin",
@@ -116,6 +116,10 @@
 	],
 	"faq": [
 		{
+			"question": "Är jag försäkrad när jag tränar hos er?",
+			"answer": "Ja det är du. Alla våra medlemmar är försäkrade genom Budo & Kampsportsförbundet och Folksam. Skyddet gäller alla medlemmar när de tränar och tävlar, även tränare, domare, styrelseledamöter och alla andra som arbetar för klubben, distriktet, underförbundet eller förbundet. Dessutom gäller skyddet för alla resor till och från uppdrag, träning och tävling. Skyddet gäller också icke-medlemmar vid prova på-verksamhet och liknande som arrangeras av klubbar i förbundet.\nLäs mer på https://www.budokampsport.se/klubb/forsakring/"
+		},
+		{
 			"question": "Kan jag betala träningsavgiften med friskvårdsbidrag eller ePassi Min Friskvård? ",
 			"answer": "Absolut! Hos oss betalar du en träningsavgift varje halvår, och den kan du sedan få ersättning för från din arbetsgivare genom friskvårdsbidrag. Säg bara till om ett kvitto som du kan lämna till din arbetsgivare så löser vi det.\n\nVi tar även emot betalningar genom ePassi Min Friskvård, antingen genom kuponger eller genom deras app om din arbetsgivare är ansluten dit, exempelvis Eskilstuna Kommun."
 		},
@@ -127,7 +131,7 @@
 		{
 			"question": "Hur mycket kostar träningen?",
 			"anchor": "kostnad",
-			"answer": "För vuxna kostar det 600:- per termin att träna, för barn 300:-. Vi har två terminer per år. En träningsdräkt (Gi) kostar lika mycket som terminsavgiften."
+			"answer": "För vuxna kostar det 600:- per termin att träna, för barn 300:-. Vi har två terminer per år. En träningsdräkt (Gi) kostar lika mycket som terminsavgiften. Aikidolek-gruppen kostar 400:- per termin."
 		},
 		{
 			"question": "Hur betalar jag terminsavgiften?",
@@ -253,7 +257,7 @@
 				{
 					"name": "Thomas Rydell",
 					"image": "images/thomas_small.png"
-				}				
+				}
 			],
 			"groupSchedule": [
 				{
