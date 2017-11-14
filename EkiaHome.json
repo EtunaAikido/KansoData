@@ -138,16 +138,16 @@
 		{
 			"question": "Hur gör jag för att beställa dräkt?",
 			"anchor": "dräkt",
-			"answer": "Gå [hit](https://docs.google.com/forms/d/1O2gLE6b2M49X0FiyKOBDVWv4BY_PJfQdQu2OCv4FOgo/viewform) och fyll i formuläret så kontaktar vi dig när vi gör en gruppbeställning."
+			"answer": "Gå [hit](https://docs.google.com/forms/d/1O2gLE6b2M49X0FiyKOBDVWv4BY_PJfQdQu2OCv4FOgo/viewform) och fyll i formuläret så kontaktar vi dig när vi gör en gruppbeställning. Det är den billigaste lösningen.\n\nOm du har bråttom och vill beställa en dräkt direkt på egen hand blir det lite dyrare, men du kan få medlemsrabatt från vår samarbetspartner Budo & Fitness,  på våra medlemssidor hittar du rabattkoden som du anger när du gör din beställning. Länken till medlemssidorna får du när du betalat terminsavgiften och fyllt i medlemsformuläret.\n\n![Vår samarbetspartner Budo & Fitness](/images/budofitness.jpg \"Budo & Fitness\")\n"
 		},
 		{
 			"question": "Kan jag betala träningsavgiften med friskvårdsbidrag eller ePassi Min Friskvård? ",
 			"answer": "Absolut! Hos oss betalar du en träningsavgift varje halvår, och den kan du sedan få ersättning för från din arbetsgivare genom friskvårdsbidrag. Säg bara till om ett kvitto som du kan lämna till din arbetsgivare så löser vi det.\n\nVi tar även emot betalningar genom ePassi Min Friskvård, antingen genom kuponger eller genom deras app om din arbetsgivare är ansluten dit, exempelvis Eskilstuna Kommun."
-		},			
+		},
 		{
 			"question": "Är jag försäkrad när jag tränar hos er?",
 			"answer": "Ja det är du. Alla våra medlemmar är försäkrade genom Budo & Kampsportsförbundet och Folksam. Skyddet gäller alla medlemmar när de tränar och tävlar, även tränare, domare, styrelseledamöter och alla andra som arbetar för klubben, distriktet, underförbundet eller förbundet. Dessutom gäller skyddet för alla resor till och från uppdrag, träning och tävling. Skyddet gäller också icke-medlemmar vid prova på-verksamhet och liknande som arrangeras av klubbar i förbundet.\n[Läs mer här](https://www.budokampsport.se/klubb/forsakring/)"
-		}	
+		}
 	],
 	"groups": [
 		{
