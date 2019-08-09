@@ -23,6 +23,15 @@
 	],
 	"instructors": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/EtunaAikido/KansoData@166da4c055df74719abb80e4d8eddf057c0b916d/images/johan_s.png",
+			"actionimage": "https://cdn.jsdelivr.net/gh/EtunaAikido/KansoData@7571ff0478a2749c486b42f4af6a7df3efda7572/images/johan_s_action.png",
+			"name": "Johan Severinsson",
+			"position": "Vuxeninstruktör",
+			"description": "En av våra rutinerade instruktörer som varit med klubben länge. Johan är en mångsysslare och sysslar också med bland annat paddling. Gillar att åka på läger och att gästträna hos andra klubbar.",
+			"rank": "Shodan",
+			"since": "2008"
+		},
+		{
 			"name": "Thomas Rydell",
 			"image": "images/thomas.png",
 			"smallimage": "images/thomas_small.png",
@@ -34,19 +43,6 @@
 			"facebook": "thomas.rydell.9",
 			"mail": "thomas@thomasrydell.se",
 			"phone": "0705864301"
-		},
-		{
-			"name": "Mattias Levin",
-			"image": "images/mattias.png",
-			"smallimage": "images/mattias_small.png",
-			"actionimage": "images/mattias.png",
-			"position": "Huvudinstruktör",
-			"description": "Klubbens huvudinstruktör sedan många år, bor numera i Stockholm men besöker oss då och då. Tränar förutom aikido även kenjutsu. Har även tränat karate några år och provat på en del andra kampkonster. Åker ofta till Japan för att träna aikido.",
-			"since": "Tränat sen 1999",
-			"rank": "Sandan",
-			"facebook": "mattias.levin.1",
-			"mail": "mattias@levin.se",
-			"phone": "0735518506"
 		},
 		{
 			"name": "Johan Ahlberg",
@@ -99,19 +95,6 @@
 			"facebook": "allotria",
 			"mail": "manuel@allotria.ch",
 			"phone": "0722101708"
-		},
-		{
-			"name": "Mikael Walldin",
-			"image": "images/mikael.png",
-			"smallimage": "images/mikael.png",
-			"actionimage": "images/mikael_action.png",
-			"position": "Vuxeninstruktör",
-			"description": "En av våra nyaste instruktörer, alltid trevlig och på bra humör. Har tidigare tränat Wing Chun, deltagit på många läger med duktiga instruktörer. Uppskattar känslan av harmoni som infinner sig efter ett genomfört aikidopass. Även ledamot i styrelsen. ",
-			"since": "Tränat sen 2013",
-			"rank": "Jokyu",
-			"facebook": "",
-			"mail": "mpower767@gmail.com",
-			"phone": "0707221111"
 		}
 	],
 	"faq": [
