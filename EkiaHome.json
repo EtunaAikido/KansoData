@@ -23,8 +23,9 @@
 	],
 	"instructors": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/EtunaAikido/KansoData@166da4c055df74719abb80e4d8eddf057c0b916d/images/johan_s.png",
-			"actionimage": "https://cdn.jsdelivr.net/gh/EtunaAikido/KansoData@7571ff0478a2749c486b42f4af6a7df3efda7572/images/johan_s_action.png",
+			"image": "images/johan_s.png",
+			"smallimage": "images/johan_s_small.png",
+			"actionimage": "images/johan_s_action.png",
 			"name": "Johan Severinsson",
 			"position": "Vuxeninstruktör",
 			"description": "En av våra rutinerade instruktörer som varit med klubben länge. Johan är en mångsysslare och sysslar också med bland annat paddling. Gillar att åka på läger och att gästträna hos andra klubbar.",
@@ -128,10 +129,12 @@
 		},
 		{
 			"question": "Kan jag betala träningsavgiften med friskvårdsbidrag eller ePassi Min Friskvård? ",
+			"anchor": "friskvård",
 			"answer": "Absolut! Hos oss betalar du en träningsavgift varje halvår, och den kan du sedan få ersättning för från din arbetsgivare genom friskvårdsbidrag. Säg bara till om ett kvitto som du kan lämna till din arbetsgivare så löser vi det.\n\nVi tar även emot betalningar genom ePassi Min Friskvård, antingen genom kuponger eller genom deras app om din arbetsgivare är ansluten dit, exempelvis Eskilstuna Kommun."
 		},
 		{
 			"question": "Är jag försäkrad när jag tränar hos er?",
+			"anchor": "försäkring",
 			"answer": "Ja det är du. Alla våra medlemmar är försäkrade genom Budo & Kampsportsförbundet och Folksam. Skyddet gäller alla medlemmar när de tränar och tävlar, även tränare, domare, styrelseledamöter och alla andra som arbetar för klubben, distriktet, underförbundet eller förbundet. Dessutom gäller skyddet för alla resor till och från uppdrag, träning och tävling. Skyddet gäller också icke-medlemmar vid prova på-verksamhet och liknande som arrangeras av klubbar i förbundet.\n[Läs mer här](https://www.budokampsport.se/klubb/forsakring/)"
 		}
 	],
@@ -140,7 +143,7 @@
 			"groupImage": "images/preschool.jpg",
 			"title": "Föräldrar & Småttingar",
 			"subtitle": "Aikidolek och motorik för 3-6 åringar tillsammans med förälder",
-			"text": "Vi tränar 8-9 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAnmälningar sker genom det [här formuläret](https://docs.google.com/forms/d/e/1FAIpQLSdFsXLxt6LohG8So4LAPK8neLkMNgcZv-G0Wk450KFt0oKUpQ/viewform). Gruppen är full just nu, men vi sätter er på reservlistan inför nästa termin.\n\nAikidolek kommer att innehålla många spännande övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.",
+			"text": "Vi tränar 8 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAnmälningar sker genom det [här formuläret](https://docs.google.com/forms/d/e/1FAIpQLSdFsXLxt6LohG8So4LAPK8neLkMNgcZv-G0Wk450KFt0oKUpQ/viewform). Gruppen är full just nu, men vi sätter er på reservlistan inför nästa termin.\n\nAikidolek kommer att innehålla många spännande övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.",
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [
 				{
@@ -242,7 +245,7 @@
 				},
 				{
 					"name": "Johan Severinsson",
-					"image": "images/johans_small.png"
+					"image": "images/johan_s_small.png"
 				}
 			],
 			"groupSchedule": [
