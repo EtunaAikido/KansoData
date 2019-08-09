@@ -29,7 +29,10 @@
 			"position": "Vuxeninstruktör",
 			"description": "En av våra rutinerade instruktörer som varit med klubben länge. Johan är en mångsysslare och sysslar också med bland annat paddling. Gillar att åka på läger och att gästträna hos andra klubbar.",
 			"rank": "Shodan",
-			"since": "Tränat sen 2008"
+			"since": "Tränat sen 2008",
+			"facebook": "johan.severinsson",
+			"mail": "johan.severinsson@comhem.se",
+			"phone": "0702456386"
 		},
 		{
 			"name": "Thomas Rydell",
@@ -222,10 +225,6 @@
 			"calendarGroup": "Vuxenträning",
 			"groupInstructors": [
 				{
-					"name": "Mattias Levin",
-					"image": "images/mattias_small.png"
-				},
-				{
 					"name": "Johan Ahlberg",
 					"image": "images/johana_small.png"
 				},
@@ -240,6 +239,10 @@
 				{
 					"name": "Thomas Rydell",
 					"image": "images/thomas_small.png"
+				},
+				{
+					"name": "Johan Severinsson",
+					"image": "images/johans_small.png"
 				}
 			],
 			"groupSchedule": [
