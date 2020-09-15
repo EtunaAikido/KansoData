@@ -216,7 +216,8 @@
 					"image": "images/kasper_small.png"
 				},
 				{
-					"name": "Hampus Åkergren"
+					"name": "Hampus Åkergren",
+					"image": "images/elliot_small.jpg"
 				}
 			],
 			"groupSchedule": [
@@ -255,7 +256,8 @@
 					"image": "images/johan_s_small.png"
 				},
 				{
-					"name": "Hassan  Jameh"
+					"name": "Hassan  Jameh",
+					"image": "images/hassan_small.png"
 				}
 			],
 			"groupSchedule": [
