@@ -41,9 +41,9 @@
 	],
 	"instructors": [
 		{
-			"image": "images/johan_s.png",
-			"smallimage": "images/johan_s_small.png",
-			"actionimage": "images/johan_s_action.png",
+			"image": "images/johan_s.webp",
+			"smallimage": "images/johan_s_small.webp",
+			"actionimage": "images/johan_s_action.webp",
 			"name": "Johan Severinsson",
 			"position": "Vuxeninstruktör",
 			"description": "En av våra rutinerade instruktörer som varit med klubben länge. Johan är en mångsysslare och sysslar också med bland annat paddling. Gillar att åka på läger och att gästträna hos andra klubbar.",
@@ -55,22 +55,22 @@
 		},
 		{
 			"name": "Thomas Rydell",
-			"image": "images/thomas.png",
-			"smallimage": "images/thomas_small.png",
-			"actionimage": "images/thomas.png",
+			"image": "images/thomas.webp",
+			"smallimage": "images/thomas_small.webp",
+			"actionimage": "images/thomas.webp",
 			"position": "Vuxeninstruktör",
 			"description": "Vår mest rutinerade instruktör, med bakgrund både i Iwama Ryu Aikido, Aikikai och Ki-Aikido. Åker gärna på läger och besöker andra klubbar med olika stilar. Även instruktör i Strängnäs Aikidoklubb.",
 			"rank": "Shodan",
 			"since": "Tränat sen 1997",
 			"facebook": "thomas.rydell.9",
 			"mail": "thomas@thomasrydell.se",
-			"phone": "0705864301"
+			"phone": "0733935008"
 		},
 		{
 			"name": "Johan Ahlberg",
-			"image": "images/johana.png",
-			"smallimage": "images/johana_small.png",
-			"actionimage": "images/johan_action.png",
+			"image": "images/johana.webp",
+			"smallimage": "images/johana_small.webp",
+			"actionimage": "images/johan_action.webp",
 			"position": "Dojoansvarig / Barn- och Vuxeninstruktör",
 			"description": "Ansvarar för att dojon fungerar, sköter planering och lägerbokningar. Kontaktperson om du har några frågor! Utbildad både som barn och vuxenledare i flera steg.",
 			"since": "Tränat sen 2003",
@@ -81,9 +81,9 @@
 		},
 		{
 			"name": "Kasper Kjällström",
-			"image": "images/kasper.png",
-			"smallimage": "images/kasper_small.png",
-			"actionimage": "images/kasper_action.png",
+			"image": "images/kasper.webp",
+			"smallimage": "images/kasper_small.webp",
+			"actionimage": "images/kasper_action.webp",
 			"position": "Barn- och vuxeninstruktör",
 			"description": "Vår yngsta instruktör, men även den som troligtvis är med på flest läger i andra klubbar. Har tränat för många duktiga instruktörer och har alltid ett öppet sinne inför nya aikidoerfarenheter. Sitter även med i styrelsen och är utbildad Ungdomsledare (Plattformen). Leder ungdomsgruppen tillsammans med Hassan.",
 			"since": "Tränat sen 2014",
@@ -94,9 +94,9 @@
 		},
 		{
 			"name": "Hassan Jameh",
-			"image": "images/hassan.png",
-			"smallimage": "images/hassan_small.png",
-			"actionimage": "images/hassan_action.png",
+			"image": "images/hassan.webp",
+			"smallimage": "images/hassan_small.webp",
+			"actionimage": "images/hassan_action.webp",
 			"position": "Barninstruktör",
 			"description": "En duktig barninstruktör som tränat i klubben nästan sen han kom till Sverige. Lär sig snabbt och har alltid ett glatt humör med sig. Kontaktperson för frågor på Arabiska! Leder ungdomsgruppen tillsammans med Kasper.",
 			"since": "Tränat sen 2015",
@@ -107,9 +107,9 @@
 		},
 		{
 			"name": "Manuel Stadelmann",
-			"image": "images/manuel.png",
-			"smallimage": "images/manuel_small.png",
-			"actionimage": "images/manuel_action.png",
+			"image": "images/manuel.webp",
+			"smallimage": "images/manuel_small.webp",
+			"actionimage": "images/manuel_action.webp",
 			"position": "Vuxen- och barninstruktör",
 			"description": "Började med Aikido när han flyttade till Eskilstuna från Schweiz och nappade direkt. Tränade tidigare chin-woo kung-fu som blev lite för slitsamt för kroppen. Det bästa med aikidoträningen är att lära sig röra sig på ett smidigt sätt. Utbildad Barn- och ungdomsledare och Kassör i föreningen.",
 			"since": "Tränat sen 2010",
@@ -123,7 +123,7 @@
 		{
 			"question": "Vart ligger träningslokalen och vad är er adress?",
 			"anchor": "plats",
-			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen. Ofta är dörren på hörnet upplåst så du kommer direkt in i trappuppgången. Om den är låst kan du behöva gå igenom hela munktellarenan, [vi har gjort en film för att hjälpa dig hitta](https://www.instagram.com/p/BJQVjSpDfdU/).\n\nOmklädningsrummen hittar du precis innan du går in i trapphuset från insidan (bredvid löparbanan), koden får du av instruktören.\n\nVår postadress är samma som dojoadressen:\nEskilstuna Ki-Aikido\nMunktellarenan\nVerkstadsgatan 5\n633 42 Eskilstuna\n"
+			"answer": "Vår dojo (träningslokal) ligger i Munktellarenan i Eskilstuna, på andra våningen i hörnet mot bron till slussen. Ofta är dörren på hörnet upplåst så du kommer direkt in i trappuppgången. Om den är låst kan du behöva gå igenom hela munktellarenan, följ skyltarna mot "Budo3". [Vi har gjort en film för att hjälpa dig hitta](https://www.instagram.com/p/BJQVjSpDfdU/).\n\nOmklädningsrummen hittar du precis innan du går in i trapphuset från insidan (bredvid löparbanan), koden får du av instruktören.\n\nVår postadress är samma som dojoadressen:\nEskilstuna Ki-Aikido\nMunktellarenan\nVerkstadsgatan 5\n633 42 Eskilstuna\n"
 		},
 		{
 			"question": "Hur mycket kostar träningen?",
@@ -158,7 +158,7 @@
 	],
 	"groups": [
 		{
-			"groupImage": "images/preschool.jpg",
+			"groupImage": "images/preschool.webp",
 			"title": "Föräldrar & Småttingar",
 			"subtitle": "Aikidolek och motorik för 3-6 åringar tillsammans med förälder",
 			"text": "Vi tränar 8 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAnmälningar sker genom det [här formuläret](https://docs.google.com/forms/d/e/1FAIpQLSdFsXLxt6LohG8So4LAPK8neLkMNgcZv-G0Wk450KFt0oKUpQ/viewform).  Inför varje termin tar vi in ett antal nya, vi kontaktar er genom mail om det finns plats inför nästa termin och hör om ni fortfarande är intresserade. Om ditt barn har fyllt 6 år kan ni istället pröva vår ordinarie barngrupp, se längre ner.\n\nAikidolek kommer att innehålla många spännande övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.",
@@ -166,7 +166,7 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.png"
+					"image": "images/johana_small.webp"
 				}
 			],
 			"groupSchedule": [
@@ -178,7 +178,7 @@
 			]
 		},
 		{
-			"groupImage": "images/kids.jpg",
+			"groupImage": "images/kids.webp",
 			"title": "Barn",
 			"subtitle": "Aikido för barn i åldrarna 7-11 år",
 			"text": "Mindre barn är välkomna att träna hos oss från 7-8 årsåldern. Undantag kan göras i vissa fall om barnet är yngre men har kommit längre i sin motoriska utveckling. \n\nI barngruppen tränar vi grunderna i Aikido. Att kunna rulla, falla, hålla balansen, gå och stå rätt samt vissa enklare aikidotekniker. Detta blandar vi med en hel del lekar som även de hjälper barnet utveckla sin motorik, balans, självkänsla och kamratskap. Huvudsyftet med träningen är att barnet ska ha roligt och kunna känna att hon eller han utvecklas. \n\nI aikido tävlar man inte mot varandra, utan fokus ligger helt på sin egna utveckling. Träningen kräver en hel del koncentration och uppmärksamhet från barnet, så en viss mognad är att rekommendera. Vi skriker och domderar inte med barnen utan vill att de är med och gör övningar av egen vilja och intresse.",
@@ -186,15 +186,15 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.png"
+					"image": "images/johana_small.webp"
 				},
 				{
 					"name": "Manuel Stadelmann",
-					"image": "images/manuel_small.png"
+					"image": "images/manuel_small.webp"
 				},
 				{
 					"name": "Hassan Jameh",
-					"image": "images/hassan_small.png"
+					"image": "images/hassan_small.webp"
 				}
 			],
 			"groupSchedule": [
@@ -211,7 +211,7 @@
 			]
 		},
 		{
-			"groupImage": "images/youths.jpg",
+			"groupImage": "images/youths.webp",
 			"title": "Ungdomar",
 			"subtitle": "Aikido för ungdomar i åldrarna 12-18 år",
 			"text": "Ungdomar tränar på samma pass som de yngre barnen och har ett eget pass i veckan, äldre ungdomar tränar även med de vuxna. Det är högre krav på ungdomarna än barnen, motivation och intresse är grundläggande för att kunna vara med och lära sig. \n\n Ungdomarna lär sig mer avancerade tekniker och fall, samt tränar ibland med trävapen. Bokken (Japanskt träsvärd) och jo (smal stav) är de främsta bland dessa. Vapenpass kräver extra koncentration då meningen inte är att göra illa någon annan, eller sig själv, med vapnen utan att kunna utnyttja dem som träningsredskap och lära sig hantera dem på ett bra sätt. \n\n Med våra ungdomar åker vi ibland på besök till andra klubbar och är med på träningsläger tillsammans med andra aikidoutövare. Vi tror att en av nycklarna till att utvecklas inom aikido är att få chansen att träna med många olika personer med olika kunskaper och färdigheter, och vi försöker lägga grunden för det redan i den här åldern.",
@@ -219,11 +219,11 @@
 			"groupInstructors": [
 				{
 					"name": "Kasper Kjällström",
-					"image": "images/kasper_small.png"
+					"image": "images/kasper_small.webp"
 				},
 				{
 					"name": "Hampus Åkergren",
-					"image": "images/elliot_small.jpg"
+					"image": "images/elliot_small.webp"
 				}
 			],
 			"groupSchedule": [
@@ -235,7 +235,7 @@
 			]
 		},
 		{
-			"groupImage": "images/adults.jpg",
+			"groupImage": "images/adults.webp",
 			"title": "Vuxna",
 			"subtitle": "Aikido för vuxna och äldre ungdomar",
 			"text": "Man är aldrig för gammal för att börja med aikido. I Japan tränar man aikido långt efter pensionsåldern, och många rörelser och tekniker är speciellt anpassade för att mjuka upp och hålla kroppen smidig. I vår klubb ligger åldern oftast mellan 30-50 år bland de vuxna. \n\n Aikido består av många delar, så många att det är svårt att beskriva alla. Främst så tränar vi diverse aikidotekniker, som ofta går ut på att hantera ett slag eller attack från en partner. Vi lär oss också att ta oss ur och hantera fasthållningar av olika slag samt flermanna-attacker. Vi tränar också en del med trävapen, både vapen mot vapen samt vapen mot obeväpnad. \n\n Men aikido består även av mycket annat. Man får lära sig att rulla mjukt, bli smidigare i kroppen, förbättra sin balans och träna på sin andning och bli lugnare i sinnet genom meditation. \n\n Genomgående i all träning är att du hela tiden samarbetar med din partner och andra som tränar, det är aldrig en kamp eller en tävling om vem som är bäst. Du ska lämna träningen i harmoni med dig själv och dina kamrater och kunna känna att du har utvecklas som person, utan att behöva jämföra dig med andra.",
@@ -243,27 +243,27 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.png"
+					"image": "images/johana_small.webp"
 				},
 				{
 					"name": "Manuel Stadelmann",
-					"image": "images/manuel_small.png"
+					"image": "images/manuel_small.webp"
 				},
 				{
 					"name": "Kasper Kjällström",
-					"image": "images/kasper_small.png"
+					"image": "images/kasper_small.webp"
 				},
 				{
 					"name": "Thomas Rydell",
-					"image": "images/thomas_small.png"
+					"image": "images/thomas_small.webp"
 				},
 				{
 					"name": "Johan Severinsson",
-					"image": "images/johan_s_small.png"
+					"image": "images/johan_s_small.webp"
 				},
 				{
-					"name": "Hassan  Jameh",
-					"image": "images/hassan_small.png"
+					"name": "Hassan Jameh",
+					"image": "images/hassan_small.webp"
 				}
 			],
 			"groupSchedule": [
