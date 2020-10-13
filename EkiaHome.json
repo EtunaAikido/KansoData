@@ -57,7 +57,7 @@
 			"name": "Thomas Rydell",
 			"image": "images/thomas.webp",
 			"smallimage": "images/thomas_small.webp",
-			"actionimage": "images/thomas.webp",
+			"actionimage": "images/thomas_action.webp",
 			"position": "Vuxeninstruktör",
 			"description": "Vår mest rutinerade instruktör, med bakgrund både i Iwama Ryu Aikido, Aikikai och Ki-Aikido. Åker gärna på läger och besöker andra klubbar med olika stilar. Även instruktör i Strängnäs Aikidoklubb.",
 			"rank": "Shodan",
@@ -117,6 +117,19 @@
 			"facebook": "allotria",
 			"mail": "manuel@allotria.ch",
 			"phone": "0722101708"
+		},
+		{
+			"name": "Hampus Åkergren",
+			"image": "images/hampus.webp",
+			"smallimage": "images/hampus_small.webp",
+			"actionimage": "images/hampus_action.webp",
+			"position": "Barn- och ungdomsinstruktör",
+			"description": "Hampus har tränat sen barnsben i vår barngrupp och är mycket rutinerad, nu kör han i ungdomsgruppen och vuxengruppen. Han är också aktiv gymnast.",
+			"since": "Tränat sen 2015",
+			"rank": "4:e Kyu",
+			"facebook": "",
+			"mail": "etuna.aikido@gmail.com",
+			"phone": "0703690898"
 		}
 	],
 	"faq": [
