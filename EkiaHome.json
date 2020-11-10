@@ -57,7 +57,8 @@
 			"since": "Tränat sen 2008",
 			"facebook": "johan.severinsson",
 			"mail": "johan.severinsson@comhem.se",
-			"phone": "0702456386"
+			"phone": "0702456386",
+			"anchor": "johan.s"
 		},
 		{
 			"name": "Thomas Rydell",
@@ -70,7 +71,8 @@
 			"since": "Tränat sen 1997",
 			"facebook": "thomas.rydell.9",
 			"mail": "thomas@thomasrydell.se",
-			"phone": "0733935008"
+			"phone": "0733935008",
+			"anchor": "thomas"
 		},
 		{
 			"name": "Johan Ahlberg",
@@ -83,7 +85,8 @@
 			"rank": "Chuden/Shodan",
 			"facebook": "j.ahlberg.me",
 			"mail": "tenkan@gmail.com",
-			"phone": "0706816183"
+			"phone": "0706816183",
+			"anchor": "johan.a"
 		},
 		{
 			"name": "Kasper Kjällström",
@@ -96,7 +99,8 @@
 			"rank": "1 Kyu",
 			"facebook": "ezikeel.cooper",
 			"mail": "ezikeel@gmail.com",
-			"phone": ""
+			"phone": "",
+			"anchor": "kasper"
 		},
 		{
 			"name": "Hassan Jameh",
@@ -109,7 +113,8 @@
 			"rank": "2 Kyu",
 			"facebook": "hassan1tiger",
 			"mail": "hassan1tiger@gmail.com",
-			"phone": "0728438557"
+			"phone": "0728438557",
+			"anchor": "hassan"
 		},
 		{
 			"name": "Manuel Stadelmann",
@@ -122,7 +127,8 @@
 			"rank": "Shoden",
 			"facebook": "allotria",
 			"mail": "manuel@allotria.ch",
-			"phone": "0722101708"
+			"phone": "0722101708",
+			"anchor": "manuel"
 		},
 		{
 			"name": "Hampus Åkergren",
@@ -135,7 +141,8 @@
 			"rank": "4:e Kyu",
 			"facebook": "",
 			"mail": "etuna.aikido@gmail.com",
-			"phone": "0703690898"
+			"phone": "0703690898",
+			"anchor": "hampus"
 		}
 	],
 	"faq": [
