@@ -1,0 +1,20 @@
+{
+	"markupExample": "In posuere eleifend odio. Quisque semper augue mattis maecenas ligula.    [![Testbild](http://192.168.186.1:8080/Kanso/KansoMavo/images/pics13.jpg)](http://ekia.net)",
+	"welcomeHeader": "Välkommen till den fredliga kampsporten aikido!",
+	"footerImage": "images/logo2014vit.png",
+	"footerText": "Eskilstuna Ki-Aikidoklubb grundades 14 mars 1991, med huvudsaklig inriktning mot aikidostilen Ki-Aikido (Shin Shin Toitsu) men även öppna för influenser från andra aikidostilar, och så är det än idag. \r\n Vi välkomnar utövare och instruktörer från all aikido med öppna armar. 31 augusti 2008 startade vi vår första barngrupp och vår barn- och ungdomsverksamhet har sedan utvecklats genom åren till det den är idag. \r\n Alla är välkomna att komma och träna med oss, oavsett vem du är eller vart du kommer ifrån! \r\n \r\n Tack till våra medlemmar, Magnus Hartman och Svenska Aikidoförbundet för bilderna på sajten.",
+	"club": [
+		{
+			"date": "2020-11-05",
+			"title": "Klubbnyheter",
+			"subtitle": "På grund av nya direktiv från Folkhälsomyndigheten ställer vi in all vuxenträning",
+			"text": "Då smittspridningen av covid-19 har ökat dramatiskt i Sörmland så har vi fått nya direktiv att idrottsträningar och speciellt kontaktsport avråds. Vi ställer därför in all vuxenträning inomhus i tre veckor framåt, till den 26 november. Detta kan förlängas, detta meddelas här i så fall. \n\nBarn och ungdomar upp till 15 år kan fortsätta träna enligt folkhälsomyndigheten, så vår barngrupp kommer fortsätta träna men med extra försiktighet och anpassning av träningen.\n\nFrågor kan ställas till Johan Ahlberg på tenkan@gmail.com / 070-6816183."
+		}
+	],
+	"links": [
+		{
+			"title": "Vart ligger träningslokalen och vad är er adress?",
+			"href": "https://www.ekia.net"
+		}
+	]
+}
