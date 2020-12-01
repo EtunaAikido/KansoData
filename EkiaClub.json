@@ -28,5 +28,13 @@
 			"title": "Vart ligger träningslokalen och vad är er adress?",
 			"href": "https://www.ekia.net"
 		}
+	],
+	"sms": [
+		{
+			"date": "2020-12-01",
+			"title": "Aikidolek",
+			"subtitle": "Så här gör du för att få sms (eller sluta få sms) med information om aikidolekträningen",
+			"text": "[Anslut dig direkt på nätet](http://smsgrupp.se/join/brhxrpffds).\n\nDet går även att bjuda in sig själv via SMS genom att skicka en kod\nSMS:a **\"cmd join brhxrpffds dittnamn\"** till **72120**"
+		}
 	]
 }
