@@ -192,7 +192,8 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.webp"
+					"image": "images/johana_small.webp",
+					"anchor": "johan-a"
 				}
 			],
 			"groupSchedule": [
@@ -212,15 +213,18 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.webp"
+					"image": "images/johana_small.webp",
+					"anchor": "johan-a"
 				},
 				{
 					"name": "Manuel Stadelmann",
-					"image": "images/manuel_small.webp"
+					"image": "images/manuel_small.webp",
+					"anchor": "manuel"
 				},
 				{
 					"name": "Hassan Jameh",
-					"image": "images/hassan_small.webp"
+					"image": "images/hassan_small.webp",
+					"anchor": "hassan"
 				}
 			],
 			"groupSchedule": [
@@ -245,11 +249,13 @@
 			"groupInstructors": [
 				{
 					"name": "Kasper Kjällström",
-					"image": "images/kasper_small.webp"
+					"image": "images/kasper_small.webp",
+					"anchor": "kasper"
 				},
 				{
 					"name": "Hampus Åkergren",
-					"image": "images/hampus_small.webp"
+					"image": "images/hampus_small.webp",
+					"anchor": "hampus"
 				}
 			],
 			"groupSchedule": [
@@ -269,27 +275,33 @@
 			"groupInstructors": [
 				{
 					"name": "Johan Ahlberg",
-					"image": "images/johana_small.webp"
+					"image": "images/johana_small.webp",
+					"anchor": "johan-a"
 				},
 				{
 					"name": "Manuel Stadelmann",
-					"image": "images/manuel_small.webp"
+					"image": "images/manuel_small.webp",
+					"anchor": "manuel"
 				},
 				{
 					"name": "Kasper Kjällström",
-					"image": "images/kasper_small.webp"
+					"image": "images/kasper_small.webp",
+					"anchor": "kasper"
 				},
 				{
 					"name": "Thomas Rydell",
-					"image": "images/thomas_small.webp"
+					"image": "images/thomas_small.webp",
+					"anchor": "thomas"
 				},
 				{
 					"name": "Johan Severinsson",
-					"image": "images/johan_s_small.webp"
+					"image": "images/johan_s_small.webp",
+					"anchor": "johan-s"
 				},
 				{
 					"name": "Hassan Jameh",
-					"image": "images/hassan_small.webp"
+					"image": "images/hassan_small.webp",
+					"anchor": "hassan"
 				}
 			],
 			"groupSchedule": [
