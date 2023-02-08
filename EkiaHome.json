@@ -12,7 +12,7 @@
 			"date": "2023-02-06",
 			"title": "Terminen har startat + anmälan Aikidolek",
 			"subtitle": "Nu är terminen i full gång, välkommen ner och träna.",
-			"text": "Välkomna!\n\nVuxen och barnträningar är i full gång varje torsdag och söndag. Välkomna ner och pröva på Aikido. Se vår kalender till höger (eller nedan på mobilen) för tider.\n\nDet går också bra att anmäla sig till terminens Aikidolek [här](https://docs.google.com/forms/d/e/1FAIpQLSddWwG7gVWtOwupKpjFitAwmpY10EkbqvdA84ZTZwJW8nC_4w/viewform)\n\n[![Träna Aikido](http://img.youtube.com/vi/ZJ0RPfWogPI/0.jpg)](https://www.youtube.com/watch?v=ZJ0RPfWogPI \"Träna Aikido\")\n\n"
+			"text": "Välkomna!\n\nVuxen och barnträningar är i full gång varje torsdag och söndag. Välkomna ner och pröva på Aikido. Se vår kalender till höger (eller nedan på mobilen) för tider.\n\n## Det går också bra att anmäla sig till terminens Aikidolek [här] ##(https://docs.google.com/forms/d/e/1FAIpQLSddWwG7gVWtOwupKpjFitAwmpY10EkbqvdA84ZTZwJW8nC_4w/viewform)\n\nKort film om Aikidoträning (länk till Youtube):\n[![Träna Aikido](http://img.youtube.com/vi/ZJ0RPfWogPI/0.jpg)](https://www.youtube.com/watch?v=ZJ0RPfWogPI \"Träna Aikido\")\n\n"
 		},
 		{
 			"date": "2022-08-16",
@@ -107,7 +107,7 @@
 			"image": "images/thomas.webp",
 			"smallimage": "images/thomas_small.webp",
 			"actionimage": "images/thomas_action.webp",
-			"position": "Träningsansvarig & Vuxeninstruktör",
+			"position": "Träningsansvarig/Vuxeninstruktör",
 			"description": "Vår mest rutinerade instruktör, med bakgrund både i Iwama Ryu Aikido, Aikikai och Ki-Aikido. Träningsansvarig som sköter planering och lägerbokningar. Även instruktör i Strängnäs Aikidoklubb.",
 			"rank": "Shodan",
 			"since": "Tränat sen 1997",
@@ -121,7 +121,7 @@
 			"image": "images/johana.webp",
 			"smallimage": "images/johana_small.webp",
 			"actionimage": "images/johan_action.webp",
-			"position": "Barnansvarig",
+			"position": "Dojoansvarig / Barn- och Vuxeninstruktör",
 			"description": "Ansvarar för att dojon fungerar. Kontaktperson om du har några frågor! Utbildad både som barn och vuxenledare i flera steg.",
 			"since": "Tränat sen 2003",
 			"rank": "Chuden/Shodan",
@@ -131,11 +131,25 @@
 			"anchor": "johan-a"
 		},
 		{
+			"name": "Kasper Kjällström",
+			"image": "images/kasper.webp",
+			"smallimage": "images/kasper_small.webp",
+			"actionimage": "images/kasper_action.webp",
+			"position": "Sekreterare/Barn- och vuxeninstruktör",
+			"description": "Vår yngsta instruktör, men även den som troligtvis är med på flest läger i andra klubbar. Har tränat för många duktiga instruktörer och har alltid ett öppet sinne inför nya aikidoerfarenheter. Sitter även med i styrelsen och är utbildad Ungdomsledare (Plattformen). Leder ungdomsgruppen tillsammans med Hassan.",
+			"since": "Tränat sen 2014",
+			"rank": "1 Kyu",
+			"facebook": "ezikeel.cooper",
+			"mail": "ezikeel@gmail.com",
+			"phone": "",
+			"anchor": "kasper"
+		},
+		{
 			"name": "Hassan Jameh",
 			"image": "images/hassan.webp",
 			"smallimage": "images/hassan_small.webp",
 			"actionimage": "images/hassan_action.webp",
-			"position": "Barn- och vuxeninstruktör",
+			"position": "Ordförande/Barn- och vuxeninstruktör",
 			"description": "En duktig instruktör som har tränat i klubben nästan lika länge som han bott i Sverige. Lär sig snabbt och har alltid ett glatt humör med sig. Styrelseordförande i klubben och kontaktperson för frågor på arabiska!",
 			"since": "Tränat sen 2015",
 			"rank": "2 Kyu/Jokyu",
@@ -157,6 +171,20 @@
 			"mail": "manuel@allotria.ch",
 			"phone": "0722101708",
 			"anchor": "manuel"
+		},
+		{
+			"name": "Hampus Åkergren",
+			"image": "images/hampus.webp",
+			"smallimage": "images/hampus_small.webp",
+			"actionimage": "images/hampus_action.webp",
+			"position": "Barn- och ungdomsinstruktör",
+			"description": "Hampus har tränat sen barnsben i vår barngrupp och är mycket rutinerad, nu kör han i ungdomsgruppen och vuxengruppen. Han är också aktiv gymnast.",
+			"since": "Tränat sen 2015",
+			"rank": "4:e Kyu",
+			"facebook": "",
+			"mail": "etuna.aikido@gmail.com",
+			"phone": "0703690898",
+			"anchor": "hampus"
 		}
 	],
 	"faq": [
