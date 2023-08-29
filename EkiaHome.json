@@ -193,22 +193,10 @@
 			"groupImage": "images/preschool.webp",
 			"title": "Föräldrar & Småttingar",
 			"subtitle": "Aikidolek och motorik för 3-6 åringar tillsammans med förälder",
-			"text": "Vi tränar ca 8 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAikidolek innehåller övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.",
+			"text": "Vi tränar ca 8 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAikidolek innehåller övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.\n\n**HÖSTTERMINEN 2023 HAR VI TYVÄRR INGEN AIKIDOLEK, VI ÅTERKOMMER I JANUARI 2024 MED INFORMATION OM VI ANORDNAR AIKIDOLEK TILL VT24.**",
 			"calendarGroup": "Aikidolek",
-			"groupInstructors": [
-				{
-					"name": "Johan Ahlberg",
-					"image": "images/johana_small.webp",
-					"anchor": "johan-a"
-				}
-			],
-			"groupSchedule": [
-				{
-					"color": "orange",
-					"icon": "users",
-					"time": "Lördagar 10.00"
-				}
-			]
+			"groupInstructors": [],
+			"groupSchedule": []
 		},
 		{
 			"groupImage": "images/kids.webp",
