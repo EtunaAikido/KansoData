@@ -193,7 +193,7 @@
 			"groupImage": "images/preschool.webp",
 			"title": "Föräldrar & Småttingar",
 			"subtitle": "Aikidolek och motorik för 3-6 åringar tillsammans med förälder",
-			"text": "Vi tränar ca 8 gånger per termin, lördagar kl 10.00 - 10.45.\nKostnad per termin är 400:-. I priset ingår även aikidodräkt för alla barn.\n\nAikidolek innehåller övningar och lekar för att stärka ditt barns (och din egen) motorik och kroppsliga utveckling, men även träning för koncentration och fokus. Vi tränar på en mjuk matta både med och utan redskap. En del lekar och övningar kommer ha aikidokoppling, men inte innehålla några svåra inslag. Fokus ligger på  att barnen ska ha roligt! Du som vuxen medverkar tillsammans med ditt barn och hjälper barnets utveckling samtidigt som du förhoppningsvis själv utvecklas.\n\n**HÖSTTERMINEN 2023 HAR VI TYVÄRR INGEN AIKIDOLEK, VI ÅTERKOMMER I JANUARI 2024 MED INFORMATION OM VI ANORDNAR AIKIDOLEK TILL VT24.**",
+			"text": "Denna grupp är pausad för tillfället.",
 			"calendarGroup": "Aikidolek",
 			"groupInstructors": [],
 			"groupSchedule": []
@@ -233,7 +233,7 @@
 			"groupImage": "images/youths.webp",
 			"title": "Ungdomar",
 			"subtitle": "Aikido för ungdomar i åldrarna 12-18 år",
-			"text": "Ungdomar tränar på samma pass som de yngre barnen och har ett eget pass i veckan, äldre ungdomar tränar även med de vuxna. Det är högre krav på ungdomarna än barnen, motivation och intresse är grundläggande för att kunna vara med och lära sig. \n\n Ungdomarna lär sig mer avancerade tekniker och fall, samt tränar ibland med trävapen. Bokken (Japanskt träsvärd) och jo (smal stav) är de främsta bland dessa. Vapenpass kräver extra koncentration då meningen inte är att göra illa någon annan, eller sig själv, med vapnen utan att kunna utnyttja dem som träningsredskap och lära sig hantera dem på ett bra sätt. \n\n Med våra ungdomar åker vi ibland på besök till andra klubbar och är med på träningsläger tillsammans med andra aikidoutövare. Vi tror att en av nycklarna till att utvecklas inom aikido är att få chansen att träna med många olika personer med olika kunskaper och färdigheter, och vi försöker lägga grunden för det redan i den här åldern.\n\n**VI HAR TYVÄRR I DAGSLÄGET INGA INSTRUKTÖRER TILL UNGDOMSGRUPPEN. DU ÄR VÄLKOMMEN ATT TRÄNA I BARN ELLER VUXENGRUPPEN ISTÄLLET BEROENDE PÅ ÅLDER. KONTAKTA OSS GÄRNA.**",
+			"text": "Denna grupp är pausad för tillfället. Ungdomar kan träna med de vuxna istället.",
 			"calendarGroup": "Ungdomsträning",
 			"groupInstructors": [],
 			"groupSchedule": []
@@ -267,11 +267,6 @@
 				}
 			],
 			"groupSchedule": [
-				{
-					"color": "blue",
-					"icon": "user",
-					"time": "Tisdagar 19:45"
-				},
 				{
 					"color": "blue",
 					"icon": "user",
